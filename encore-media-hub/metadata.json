@@ -1,0 +1,7 @@
+{
+  "name": "Encore Media Hub",
+  "description": "A modern, sleek media sharing hub for Encore Beach Club, allowing users to upload, manage, and share photos and videos. Includes AI-powered tools to help create social media content.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
